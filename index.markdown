@@ -5,6 +5,4 @@
 layout: home
 title: Home
 ---
-    {{ include header.html }}
-    {{ content }}
-    {{ include footer.html }}
+Hello this is a test.
